@@ -1,8 +1,3 @@
-
-**Author:** Christopher Hirschauer
-📧 Email: [c.hirschauer@outlook.com](mailto:c.hirschauer@outlook.com)
-Perfect. Here’s a **fully tricked-out `README.md`** with shields and a gradient-style banner to make your repo pop:
-
 # 🎛️ Protocol-Based Computing
 ### Frequency-Domain Logic Encoding for Protocol-Enforced Systems
 

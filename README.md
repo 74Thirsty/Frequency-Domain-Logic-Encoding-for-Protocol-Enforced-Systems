@@ -1,7 +1,7 @@
 # 🎛️ Protocol-Based Computing
 ### Frequency-Domain Logic Encoding for Protocol-Enforced Systems
 
-![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/rainbow.svg)
+![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/rainpulse.svg)
 
 [![Made with Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![LaTeX](https://img.shields.io/badge/LaTeX-pdfTeX-green?logo=latex&logoColor=white)](https://www.latex-project.org/)  

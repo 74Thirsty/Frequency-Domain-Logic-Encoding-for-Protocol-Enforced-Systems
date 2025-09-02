@@ -6,14 +6,8 @@ Perfect. Here’s a **fully tricked-out `README.md`** with shields and a gradien
 # 🎛️ Protocol-Based Computing
 ### Frequency-Domain Logic Encoding for Protocol-Enforced Systems
 
-```ansi
-██████╗ ██████╗  ██████╗ ████████╗ ██████╗  ██████╗ ██╗     
-██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔═══██╗██╔═══██╗██║     
-██████╔╝██████╔╝██║   ██║   ██║   ██║      ██║   ██║██║     
-██╔═══╝ ██╔═══╝ ██║   ██║   ██║   ██║   ██║██║   ██║██║     
-██║     ██║     ╚██████╔╝   ██║   ╚██████╔╝╚██████╔╝███████╗
-╚═╝     ╚═╝      ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-```
+![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/rainbow.svg)
+
 [![Made with Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![LaTeX](https://img.shields.io/badge/LaTeX-pdfTeX-green?logo=latex&logoColor=white)](https://www.latex-project.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
